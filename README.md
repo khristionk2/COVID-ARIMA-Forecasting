@@ -14,5 +14,5 @@ Background Knowledge:
 * Around 6 percent of Colorado hospitals were reporting staff shortages, compared to 17 percent of hospitals in the rest of the country.
 
 # Tools:
-Software: R
-Skills: ARIMA, Forecast Combination
+* Software: R
+* Skills: ARIMA, Forecast Combination
