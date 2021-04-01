@@ -11,3 +11,7 @@ Background Knowledge:
 * The rate of COVID-19 deaths per 100,000 people in Colorado was 2.3 — the U.S. death rate is 6.8.
 * Around 11 percent of Colorado hospitals were reporting supply shortages, compared to 21 percent of U.S. hospitals at large.
 * Around 6 percent of Colorado hospitals were reporting staff shortages, compared to 17 percent of hospitals in the rest of the country.
+
+# Tools:
+Software: R
+Skills: ARIMA, Forecast Combination
