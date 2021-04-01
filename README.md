@@ -1,6 +1,7 @@
 # COVID-ARIMA-Forecasting
 
 The purpose of this project is to learn ARIMA models and then apply that knowledge to forecast Covid cases and deaths.
+Utilizing ARIMA and Forecast Combination I was able to predict the next 30 days of COVID cases and deaths in Colorado.
 
 I utilized time-series data that came from all of the US states since Jan 1st 2020 on the Covid cases. You can augment the data file with the latest information from the website at CDC Covid Tracker by States: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36 
 
