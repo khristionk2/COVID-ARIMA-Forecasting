@@ -16,3 +16,15 @@ Background Knowledge:
 # Tools:
 * Software: R
 * Skills: ARIMA, Forecast Combination
+
+**Colorado Cases**
+The red line represents the COVID cases collected from Jan 22, 2020 to Feb 10, 2021
+The blue line represents the prediction forecast of cases for the next 30 days
+
+![image](https://user-images.githubusercontent.com/74162007/117516795-eccb7a00-af4e-11eb-9eed-6fa1e8494bba.png)
+
+**Colorado Deaths**
+The red line represents the COVID deaths collected from Jan 22, 2020 to Feb 10, 2021
+The blue line represents the prediction forecast of deaths for the next 30 days
+
+![image](https://user-images.githubusercontent.com/74162007/117516808-040a6780-af4f-11eb-9d6c-8b9fa748230d.png)
